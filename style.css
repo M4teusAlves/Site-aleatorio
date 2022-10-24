@@ -44,9 +44,26 @@ body
     width: 100%;
 }
 
+.caixanaruto{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    height: 40%;
+    border-radius: 20%;
+}
+
 .naruto1{
     width: 40%;
     height: 40%;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 2px white;
+    object-fit: cover;
+}
+
+.naruto1:hover{
+    width: 45%;
+    height: 45%;
 }
 
 .naruto2{
@@ -54,7 +71,7 @@ body
     text-align: center;
     text-shadow: 2px 2px 2px black;
     color: white;
-    font-size: 20px;
+    font-size: 60px;
 
 }
 
