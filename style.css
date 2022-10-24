@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.titulo-section-1
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.imagem-section-1
+{
+    display: flex;
+    margin: 0 auto;
+    width: 60vw;
+}
+
+.texto-section-1
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    padding: 10px;
+}
