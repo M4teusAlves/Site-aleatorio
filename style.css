@@ -10,6 +10,26 @@
     color: inherit;
 }
 
+header
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    gap: 10%;
+    background-color: #555555;
+}
+
+main
+{
+    display: flex;
+}
+
+.section-1
+{
+    width: 50%;
+}
+
 .titulo-section-1
 {
     font-family: 'Poppins', sans-serif;
@@ -21,7 +41,7 @@
 {
     display: flex;
     margin: 0 auto;
-    width: 60vw;
+    width: 60%;
 }
 
 .texto-section-1
@@ -42,13 +62,13 @@ body
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
+    width: 50%;
 }
 
 .naruto1
 {
-    width: 40%;
-    height: 40%;
+    width: 60%;
+    height: 20%;
 }
 
 .naruto2
@@ -66,10 +86,12 @@ footer
     width: 100%;
     flex-direction: column;
     display: flex;
+    justify-content: flex-end;
     align-items: center;
     justify-content: center;
     height: 10vh;
     gap: 10%;
+    background-color: #555555;
 }
 
 .footer 
