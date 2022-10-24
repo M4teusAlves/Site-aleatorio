@@ -10,11 +10,6 @@
     color: inherit;
 }
 
-main
-{
-    display: flex;
-}
-
 .titulo-section-1
 {
     font-family: 'Poppins', sans-serif;
@@ -47,7 +42,7 @@ body
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 30vw;
+    width: 100%;
 }
 
 .naruto1
@@ -77,7 +72,8 @@ footer
     gap: 10%;
 }
 
-.footer {
+.footer 
+{
     width: 40%;
     display: flex;
     flex-direction: row;
