@@ -8,3 +8,17 @@
 body{
     background: #6969;
 }
+
+#naruto{
+    width: 50%;
+}
+
+.naruto1{
+    width: 50%;
+    height: 40%;
+}
+
+.naruto2{
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
